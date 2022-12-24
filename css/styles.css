@@ -99,18 +99,14 @@ align-items: center;
     gap: 31px;
 }
 
-.header-list:last-child {
-    margin-right: 0px;
-}
 
 
 .header-item {
     color: var(--primary-text-color);
     font-family: inherit;
     line-height: 1.22;
-    flex-wrap: wrap;
     align-items: center;
-    min-width: 30px;
+    min-width: 46px;
 }
 
 .button-white {
