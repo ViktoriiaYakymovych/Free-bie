@@ -33,9 +33,7 @@ img {
 .container {
     border: 1px solid red;
 
-    max-width: 1170px;
-    padding-left: 15px;
-    padding-right: 15px;
+    max-width: 1440px;
     margin: 0 auto;
 }
 
